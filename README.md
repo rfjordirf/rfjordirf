@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there! 👋
 
-<!--
-**rfjordirf/rfjordirf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a junior web developer passionate about learning and building. I recently finished a fullstack bootcamp and have been coding non-stop ever since.
 
-Here are some ideas to get you started:
+- 🔭 Currently working with MySQL, React, Node.js, Vite, Angular, TypeScript and Tailwind CSS to create clean, user-friendly projects  
+- 🌱 Exploring Angular, TypeScript, Three.js, and other technologies on my own to broaden my skill set  
+- 👯 Open to collaborate on frontend, backend, or fullstack projects to keep growing and improving  
+- 🤔 Eager to learn from experienced developers and tackle real-world challenges  
+- 💬 Ask me about web development, JavaScript, or my journey into coding  
+- 📫 Reach me at: https://www.linkedin.com/in/jordi-roig%C3%A9-fuentes-259393209/   
+- ⚡ Fun fact: I love diving deep into code — I can spend 15+ hours a day on screen when I’m passionate about something
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+I’m curious, detail-oriented, and driven to improve every day.
+I especially enjoy developing ideas that have real business impact.
+Looking forward to joining a team where I can contribute and keep pushing my limits! 🚀
