@@ -22,3 +22,5 @@ So far, I’ve worked on two small projects during the bootcamp:
 After gaining these skills, I’m now working on my own idea in the music industry—a social network targeting a totally overlooked niche (top secret! 🤫).
 
 Looking forward to joining a team where I can contribute and keep pushing my limits! 🚀
+
+Portfolio: Work in progress 🚧
